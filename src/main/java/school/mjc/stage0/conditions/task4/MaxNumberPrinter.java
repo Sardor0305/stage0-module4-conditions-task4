@@ -9,7 +9,7 @@ public class MaxNumberPrinter {
         if (third > greatest) {
             greatest = third;
         }
-        System.out.println("The greatest number is " + greatest);
+        System.out.println(greatest);
     }
     }
 }
