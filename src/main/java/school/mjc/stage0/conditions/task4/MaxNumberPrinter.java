@@ -10,6 +10,6 @@ public class MaxNumberPrinter {
             greatest = third;
         }
         System.out.println(greatest);
-    }
+    
     }
 }
